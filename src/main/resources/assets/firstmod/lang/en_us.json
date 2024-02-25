@@ -1,0 +1,13 @@
+{
+  "item.firstmod.zircon": "Zircon",
+  "item.firstmod.raw_zircon": "Raw Zircon",
+  "item.firstmod.eight_ball": "Eight Ball",
+
+
+  "block.firstmod.zircon_block": "Block of Zircon",
+  "block.firstmod.zircon_ore": "Ore of Zircon",
+  "block.firstmod.jumpy_block": "Jumpy Block",
+
+
+  "itemGroup.firstmodtab": "First Mod"
+}
